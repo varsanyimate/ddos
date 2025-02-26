@@ -1,0 +1,6 @@
+.Trash-0/
+.gradio/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.pt
