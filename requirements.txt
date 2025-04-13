@@ -15,3 +15,7 @@ datasets
 tqdm
 gradio
 imblearn
+umap-learn
+xgboost
+catboost
+scikit-learn
