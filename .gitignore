@@ -6,3 +6,6 @@ data/
 *.pt
 datasets/
 src/catboost_info
+*.ckpt
+src/*.ckpt
+src/logs/

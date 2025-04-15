@@ -19,3 +19,5 @@ umap-learn
 xgboost
 catboost
 scikit-learn
+pytorch-lightning
+ydata-profiling
