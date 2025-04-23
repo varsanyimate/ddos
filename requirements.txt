@@ -21,3 +21,6 @@ catboost
 scikit-learn
 pytorch-lightning
 ydata-profiling
+hiplot
+plotly
+optuna
