@@ -7,5 +7,10 @@ data/
 datasets/
 src/catboost_info
 *.ckpt
+*.pkl
+*.csv
 src/*.ckpt
 src/logs/
+src/wandb/
+src/ddos_classifier_dl/
+src/ddos_classifier_best/
